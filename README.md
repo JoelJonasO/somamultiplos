@@ -1,5 +1,5 @@
 
-# Projeto Eleições
+# Projeto Soma dos Multiplos
 
 Pequena lógica que calcula a somatória dos multiplos de 3 e 5, podendo ser configurado na application outros números.
 
